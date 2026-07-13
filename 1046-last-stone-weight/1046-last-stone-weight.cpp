@@ -12,9 +12,12 @@ public:
 
             int second = pq.top();
             pq.pop();
+
             if(first != second)
                 pq.push(first- second);
         }
-        return pq.empty() ? 0 : pq.top();
-    }
+            if (pq.empty())
+                return 0;
+            return pq.top(); 
+  }
 };
