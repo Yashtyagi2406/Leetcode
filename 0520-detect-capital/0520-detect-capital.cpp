@@ -1,20 +1,16 @@
 class Solution {
 public:
     bool detectCapitalUse(string word) {
-        int upper = 0, lower = 0;
+        int n = word.size();
 
-        for(char ch : word){
-            if(isupper(ch))
-                upper ++;
-            else
-                lower ++;
+        if(n == 1) return true;
+
+        bool shouldBeUpper = isupper(word[0]) && isupper(word[1]);
+
+        for(int i= 1; i< n; i++){
+            if((bool)isupper(word[i]) != shouldBeUpper)
+                 return false;
         }
-        int n= word.size();
-        if(upper == n) return true;
-        if(lower == n) return true;
-        if(isupper(word[0]) && lower == n-1)
-            return true;
-
-        return false;
+        return true;
     }
 };
