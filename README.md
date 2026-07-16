@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Yashtyagi2406/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Yashtyagi2406/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Yashtyagi2406/Leetcode/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/Yashtyagi2406/Leetcode/tree/master/0831-masking-personal-information) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashtyagi2406/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Yashtyagi2406/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
