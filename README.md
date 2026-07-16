@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashtyagi2406/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Yashtyagi2406/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Yashtyagi2406/Leetcode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Yashtyagi2406/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashtyagi2406/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
