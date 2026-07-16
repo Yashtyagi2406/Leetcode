@@ -4,22 +4,22 @@ public:
 
         int n = s.size();
 
-        for(int len = 1; len <= n / 2; len++) {
+        for (int len = 1; len <= n / 2; len++) {
 
-            // Pattern length must divide the string length
-            if(n % len != 0)
+            if (n % len != 0)
                 continue;
 
-            string pattern = s.substr(0, len);
+            bool match = true;
 
-            string temp = "";
+            for (int i = len; i < n; i++) {
 
-            int repeat = n / len;
+                if (s[i] != s[i % len]) {
+                    match = false;
+                    break;
+                }
+            }
 
-            for(int i = 0; i < repeat; i++)
-                temp += pattern;
-
-            if(temp == s)
+            if (match)
                 return true;
         }
 
