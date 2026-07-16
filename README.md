@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0001-two-sum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Yashtyagi2406/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Yashtyagi2406/Leetcode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Yashtyagi2406/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Yashtyagi2406/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
