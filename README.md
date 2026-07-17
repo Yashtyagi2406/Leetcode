@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yashtyagi2406/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Yashtyagi2406/Leetcode/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/Yashtyagi2406/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Yashtyagi2406/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Yashtyagi2406/Leetcode/tree/master/0520-detect-capital) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yashtyagi2406/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Yashtyagi2406/Leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Yashtyagi2406/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
