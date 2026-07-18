@@ -15,7 +15,7 @@ public:
              freq.push_back({nums[i], count});
        }
              sort(freq.begin(), freq.end(),
-                    [](pair<int,int> a, pair<int, int> b){
+                    [](const pair<int,int> & a, const pair<int, int> &b){
                         return a.second> b.second;
                     }
                 );
