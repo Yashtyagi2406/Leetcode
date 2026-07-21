@@ -15,15 +15,15 @@ public:
         
         if(p == nullptr && q== nullptr)
             return true;
-        else if(p == nullptr || q == nullptr)
+        if(p == nullptr || q == nullptr)
                 return false;
-        else if( p -> val!= q -> val)
+         if( p -> val!= q -> val)
             return false;
-        else{
+        
             bool left = isSameTree(p->left, q->left);
             bool right = isSameTree(p-> right, q-> right);
 
             return left && right;
-        }
+    
     }
 };
