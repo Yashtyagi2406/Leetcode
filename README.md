@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Yashtyagi2406/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Yashtyagi2406/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashtyagi2406/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Yashtyagi2406/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Yashtyagi2406/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Yashtyagi2406/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Yashtyagi2406/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Yashtyagi2406/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Yashtyagi2406/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yashtyagi2406/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Yashtyagi2406/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
