@@ -50,14 +50,14 @@ public:
             mp[inorder[i]] = i;
 
         }
-        return solve(preorder, 
-                     0, 
-                    preorder.size() - 1,
-                    inorder, 
-                    0, 
-                    inorder.size() - 1,
-                    mp
+        return solve(
+            preorder, 
+            0, 
+            preorder.size() - 1,
+            inorder, 
+            0, 
+            inorder.size() - 1,
+            mp
         );
-        
     }
 };
