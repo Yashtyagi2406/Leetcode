@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Yashtyagi2406/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0965-univalued-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Yashtyagi2406/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0965-univalued-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Yashtyagi2406/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Yashtyagi2406/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0965-univalued-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0965-univalued-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
