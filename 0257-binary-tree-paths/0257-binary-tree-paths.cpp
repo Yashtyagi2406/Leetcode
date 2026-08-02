@@ -22,8 +22,11 @@ public:
         else
             path += "->" + to_string(root->val);
         
-        if(root->left ==NULL && root->right == NULL)
+        if(root->left ==NULL && root->right == NULL){
+
             ans.push_back(path);
+            return;
+        }
         
         dfs(root->left, path);
         dfs(root->right , path);
