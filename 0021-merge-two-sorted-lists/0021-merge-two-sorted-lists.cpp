@@ -4,7 +4,7 @@ public:
 
         ListNode dummy(-1);
         ListNode* tail = &dummy;
-        
+
         if (list1 == nullptr) return list2;
         if (list2 == nullptr) return list1;
 
@@ -19,7 +19,6 @@ public:
                 tail->next = list2;
                 list2 = list2->next;
             }
-
             tail = tail->next;
         }
 
