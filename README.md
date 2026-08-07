@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Yashtyagi2406/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Yashtyagi2406/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Yashtyagi2406/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Yashtyagi2406/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Yashtyagi2406/Leetcode/tree/master/0053-maximum-subarray) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Yashtyagi2406/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Bucket Sort
 |  |
