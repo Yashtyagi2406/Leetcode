@@ -11,33 +11,34 @@
  */
 class Solution {
 public:
-     map< int, vector<pair<int, int>>> mp;
+    map<int, vector<pair<int, int>>> mp;
 
     void dfs(TreeNode* root, int row, int col){
+
         if(root == NULL) return;
 
-        mp[col].push_back({row, root->val});
+        mp[col].push_back({row, root-> val});
 
-        dfs(root->left, row + 1, col-1);
-         dfs(root->right, row + 1, col + 1);
+        dfs(root->left, row+ 1, col - 1);
+        dfs(root->right, row + 1, col + 1);
         
     }
 
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        vector<vector<int>> ans;
+        vector< vector<int>> ans;
 
         dfs(root, 0, 0);
 
         for(auto &it : mp){
-           sort(it.second.begin(), it.second.end());
+            sort (it.second.begin(), it.second.end());
 
-           vector<int> temp;
+            vector<int> temp;
 
-           for(auto &p : it.second){
-            temp.push_back(p.second);
-           }
+            for(auto &p : it.second){
+                temp.push_back(p.second);
+            }
 
-           ans.push_back(temp);
+            ans.push_back(temp);
         }
 
         return ans;
