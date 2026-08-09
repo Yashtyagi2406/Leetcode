@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Yashtyagi2406/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashtyagi2406/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashtyagi2406/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3731-find-missing-elements](https://github.com/Yashtyagi2406/Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Yashtyagi2406/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashtyagi2406/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Yashtyagi2406/Leetcode/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yashtyagi2406/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Yashtyagi2406/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Yashtyagi2406/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Yashtyagi2406/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Yashtyagi2406/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0965-univalued-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -278,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Yashtyagi2406/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
