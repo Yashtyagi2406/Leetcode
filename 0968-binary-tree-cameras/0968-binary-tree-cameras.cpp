@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int camera =NEED;
+    int camera =0;
     enum State{
         NEED = 0,
         CAMERA = 1,
