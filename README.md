@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Yashtyagi2406/Leetcode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Yashtyagi2406/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yashtyagi2406/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashtyagi2406/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yashtyagi2406/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Yashtyagi2406/Leetcode/tree/master/3731-find-missing-elements) |
 ## Queue
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yashtyagi2406/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashtyagi2406/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
 | ------- |
