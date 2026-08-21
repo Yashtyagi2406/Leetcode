@@ -358,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Yashtyagi2406/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Yashtyagi2406/Leetcode/tree/master/0733-flood-fill) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Yashtyagi2406/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
