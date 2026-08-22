@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Yashtyagi2406/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashtyagi2406/Leetcode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yashtyagi2406/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yashtyagi2406/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yashtyagi2406/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
