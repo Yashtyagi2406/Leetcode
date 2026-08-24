@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Yashtyagi2406/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashtyagi2406/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Yashtyagi2406/Leetcode/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/Yashtyagi2406/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yashtyagi2406/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Yashtyagi2406/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Yashtyagi2406/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Yashtyagi2406/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Minimax
 |  |
 | ------- |
