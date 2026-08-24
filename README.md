@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Yashtyagi2406/Leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Yashtyagi2406/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashtyagi2406/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Yashtyagi2406/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Yashtyagi2406/Leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Yashtyagi2406/Leetcode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Yashtyagi2406/Leetcode/tree/master/1046-last-stone-weight) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Yashtyagi2406/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashtyagi2406/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Yashtyagi2406/Leetcode/tree/master/0704-binary-search) |
 ## Bucket Sort
 |  |
 | ------- |
