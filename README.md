@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Yashtyagi2406/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Yashtyagi2406/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Yashtyagi2406/Leetcode/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yashtyagi2406/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Yashtyagi2406/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashtyagi2406/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Yashtyagi2406/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Yashtyagi2406/Leetcode/tree/master/0704-binary-search) |
 ## Bucket Sort
 |  |
