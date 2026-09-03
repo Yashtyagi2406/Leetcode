@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Yashtyagi2406/Leetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Yashtyagi2406/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashtyagi2406/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Yashtyagi2406/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Yashtyagi2406/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Yashtyagi2406/Leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Yashtyagi2406/Leetcode/tree/master/0877-stone-game) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yashtyagi2406/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Yashtyagi2406/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Yashtyagi2406/Leetcode/tree/master/0561-array-partition) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Yashtyagi2406/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Yashtyagi2406/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Yashtyagi2406/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Yashtyagi2406/Leetcode/tree/master/0561-array-partition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3536-maximum-product-of-two-digits](https://github.com/Yashtyagi2406/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Yashtyagi2406/Leetcode/tree/master/3731-find-missing-elements) |
@@ -390,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yashtyagi2406/Leetcode/tree/master/0141-linked-list-cycle) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Yashtyagi2406/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
