@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Yashtyagi2406/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yashtyagi2406/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Yashtyagi2406/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yashtyagi2406/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Yashtyagi2406/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Yashtyagi2406/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Function
 |  |
 | ------- |
