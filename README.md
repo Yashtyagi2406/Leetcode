@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yashtyagi2406/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashtyagi2406/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Yashtyagi2406/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Yashtyagi2406/Leetcode/tree/master/0520-detect-capital) |
 | [0831-masking-personal-information](https://github.com/Yashtyagi2406/Leetcode/tree/master/0831-masking-personal-information) |
+| [3498-reverse-degree-of-a-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
