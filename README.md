@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Yashtyagi2406/Leetcode/tree/master/0896-monotonic-array) |
 | [1046-last-stone-weight](https://github.com/Yashtyagi2406/Leetcode/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Yashtyagi2406/Leetcode/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1720-decode-xored-array](https://github.com/Yashtyagi2406/Leetcode/tree/master/1720-decode-xored-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Yashtyagi2406/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Yashtyagi2406/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yashtyagi2406/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -457,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Yashtyagi2406/Leetcode/tree/master/0292-nim-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1720-decode-xored-array](https://github.com/Yashtyagi2406/Leetcode/tree/master/1720-decode-xored-array) |
 <!---LeetCode Topics End-->
