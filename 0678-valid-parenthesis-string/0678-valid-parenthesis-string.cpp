@@ -14,7 +14,7 @@ public:
                 low--;
                 high--;
             }
-            else { // '*'
+            else { 
                 low--;
                 high++;
             }
