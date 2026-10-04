@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Yashtyagi2406/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0897-increasing-order-search-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Yashtyagi2406/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Yashtyagi2406/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Yashtyagi2406/Leetcode/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0831-masking-personal-information](https://github.com/Yashtyagi2406/Leetcode/tree/master/0831-masking-personal-information) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashtyagi2406/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Yashtyagi2406/Leetcode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Yashtyagi2406/Leetcode/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/Yashtyagi2406/Leetcode/tree/master/0968-binary-tree-cameras) |
 ## Divide and Conquer
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Yashtyagi2406/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Yashtyagi2406/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Yashtyagi2406/Leetcode/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Sorting
 |  |
 | ------- |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brainteaser
 |  |
