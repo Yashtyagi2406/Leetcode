@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Yashtyagi2406/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Yashtyagi2406/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Yashtyagi2406/Leetcode/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0831-masking-personal-information](https://github.com/Yashtyagi2406/Leetcode/tree/master/0831-masking-personal-information) |
+| [0856-score-of-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brainteaser
 |  |
