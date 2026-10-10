@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yashtyagi2406/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashtyagi2406/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Yashtyagi2406/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yashtyagi2406/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yashtyagi2406/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yashtyagi2406/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashtyagi2406/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yashtyagi2406/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Yashtyagi2406/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Yashtyagi2406/Leetcode/tree/master/3731-find-missing-elements) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Yashtyagi2406/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Yashtyagi2406/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Yashtyagi2406/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashtyagi2406/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
